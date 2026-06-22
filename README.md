@@ -66,9 +66,3 @@ My focus is on learning the fundamentals of programming and contributing to mean
 </div>
 
 ---
-
-<div align="center">
-
-<sub>© Copyright By ElrayyXml</sub>
-
-</div>
