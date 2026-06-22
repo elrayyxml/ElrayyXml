@@ -18,22 +18,20 @@ My focus is on learning the fundamentals of programming and contributing to mean
 
 ---
 
-## GitHub Statistics
+### ⌗ Stats
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/ElrayyXml">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElrayyXml&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true#gh-dark-mode-only"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElrayyXml&layout=compact&langs_count=8&theme=dark&hide_border=true#gh-dark-mode-only"/>
+  </a>
+</p>
 
-<a href="https://github.com/ElrayyXml">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElrayyXml&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElrayyXml&layout=compact&langs_count=8&theme=graywhite&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/ElrayyXml">
-  <img height="170em" src="https://streak-stats.demolab.com?user=ElrayyXml&theme=graywhite&hide_border=true" alt="GitHub Streak" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/ElrayyXml">
+    <img height="180em" src="https://streak-stats.demolab.com?user=ElrayyXml&theme=dark&hide_border=true#gh-dark-mode-only" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
