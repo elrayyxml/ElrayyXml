@@ -8,34 +8,34 @@
 
 ---
 
-## About Me
+### ⌗ About Me
 
 I'm **ElrayyXml**, a beginner in the world of coding, dedicated to exploring technology and developing my skills through hands-on projects.
 
-## Overview
+### ⌗ Overview
 
 My focus is on learning the fundamentals of programming and contributing to meaningful projects. I aim to build practical solutions and grow within the open-source community.
 
 ---
 
-### ⌗ Stats
+### ⌗ Statistic
 
 <p align="center">
   <a href="https://github.com/ElrayyXml">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElrayyXml&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true#gh-dark-mode-only"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElrayyXml&layout=compact&langs_count=8&theme=dark&hide_border=true#gh-dark-mode-only"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElrayyXml&show_icons=true&include_all_commits=true&count_private=true&theme=dark&border_color=FFFFFF#gh-dark-mode-only"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElrayyXml&layout=compact&langs_count=8&theme=dark&border_color=FFFFFF#gh-dark-mode-only"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ElrayyXml">
-    <img height="180em" src="https://streak-stats.demolab.com?user=ElrayyXml&theme=dark&hide_border=true#gh-dark-mode-only" alt="GitHub Streak"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=ElrayyXml&theme=dark&border=FFFFFF#gh-dark-mode-only" alt="GitHub Streak"/>
   </a>
 </p>
 
 ---
 
-## Learning Projects
+### ⌗ Learning Projects
 
 - Developing simple applications to gain practical experience.
 - Experimenting with interactive, real-time features.
@@ -43,7 +43,7 @@ My focus is on learning the fundamentals of programming and contributing to mean
 
 ---
 
-## Connect With Me
+### ⌗ Connect With Me
 
 <div align="center">
 
